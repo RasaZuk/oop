@@ -5,7 +5,8 @@ export class GoldenFish extends Fish {
         super(name);
         this.animalType = 'goldenFish';
         this.finCount = 7;
-        this.sound = 'wish';
+        this.sound = 'brrrr';
+        this.emoji = '🐠'
         this.emojiCount = 3;
     }
 
